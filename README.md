@@ -1,5 +1,6 @@
 ## Hi there 👋
 Computer Science Student
+Interested in software development and data analysis
 
 
 
